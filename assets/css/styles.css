@@ -74,7 +74,7 @@ a{
     color: var(--text-color);
 }
 img{
-    max-width: 100%;
+    max-width: 60%;
     height: auto;
     display: block;
 }
@@ -208,7 +208,7 @@ img{
     position: absolute;
     right: 0;
     bottom: 0;
-    width: 295px;
+    width: 265px;
 }
 
 /* ===== ABOUT =====*/
